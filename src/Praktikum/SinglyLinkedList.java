@@ -1,5 +1,8 @@
 package Praktikum;
 
+/**
+ * @author Augie Winanda Favourite
+ */
 public class SinglyLinkedList<E> {
     Node<E> head = null;
     Node<E> tail = null;

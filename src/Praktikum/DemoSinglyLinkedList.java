@@ -1,5 +1,8 @@
 package Praktikum;
 
+/**
+ * @author Augie Winanda Favourite
+ */
 public class DemoSinglyLinkedList {
     public static void printListDouble(SinglyLinkedList<Double> list) {
         Node<Double> temp = list.head;
